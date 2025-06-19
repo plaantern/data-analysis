@@ -1,6 +1,6 @@
-# DS/ML/AI Portfolio
+# 🧠 DS/ML/AI Portfolio
 
-This repository contains a collection of machine learning projects covering various datasets and techniques. Below is a summary of each notebook:
+This repository contains a collection of machine learning and data analysis projects, ranging from classic supervised learning to deep learning and exploratory analysis. Each notebook is designed to showcase specific concepts, techniques, or domains.
 
 ---
 
@@ -50,7 +50,29 @@ This repository contains a collection of machine learning projects covering vari
 
 ---
 
-## 🛠️ Technologies  
-- **Frameworks**: PyTorch, scikit-learn, CatBoost.  
-- **Libraries**: NumPy, pandas, Matplotlib, Seaborn.  
-- **Techniques**: Gradient Descent, Grid Search, Cross-Validation, Regularization.
+### 5. **Wolt Delivery Analysis** 🛵  
+- **Objective**: Explore Wolt delivery data to uncover performance trends and operational insights.  
+- **Key Steps**:  
+  - Data preprocessing and time-based feature extraction.  
+  - Exploratory Data Analysis (EDA) using Seaborn and pandas.  
+  - Delivery performance trends across dates, hours, and weekdays.  
+- **Results**:  
+  - Revealed delivery time peaks and operational efficiency patterns across timeframes.
+
+---
+
+### 6. **AKI Development in ICU Patients** 🏥  
+- **Objective**: Analyze factors contributing to Acute Kidney Injury (AKI) development among ICU patients.  
+- **Key Steps**:  
+  - Clinical data analysis and grouping by AKI stages.  
+  - Time-series visualization of creatinine levels and lab results.  
+  - Mortality and comorbidity rate comparison.  
+- **Results**:  
+  - Found correlations between AKI stages, time to onset, and increased mortality rates.
+
+---
+
+## 🛠️ Technologies & Tools  
+- **Frameworks**: PyTorch, scikit-learn, CatBoost  
+- **Libraries**: NumPy, pandas, Matplotlib, Seaborn, SciPy  
+- **Techniques**: Gradient Descent, EDA, Grid Search, Cross-Validation, Regularization, Time-Series Analysis, Multi-Output Linear Models
